@@ -3504,3 +3504,12 @@ input, select, textarea {
 			}
 
 	}
+
+	#cv{
+		width: 100px;
+		height: 100px;
+		padding: 8px 30px;
+		border-radius: 25px;
+		background-color: rgb(8, 189, 189);
+		text-decoration: none;
+	}
